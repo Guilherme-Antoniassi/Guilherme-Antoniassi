@@ -8,5 +8,6 @@ Sou um estudante de tecnologia e programação, sempre em busca de novos conheci
 
 ## Linguagens mais usadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Antoniassi&layout=compact&theme=dracula" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/343bf8ec-81d5-44a7-993f-fc8fbaa97832" width="150" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Antoniassi&layout=compact&theme=dracula" width="500" height="300"> 
+ <img src="https://github.com/user-attachments/assets/343bf8ec-81d5-44a7-993f-fc8fbaa97832" width="250" height="250" style="float: right; margin-left: 10px;">
+
